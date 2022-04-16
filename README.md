@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaitakami
-- 👀 I’m interested in startups, design and mobile app development.
-- 🌱 I’m currently learning ReactJS.
-- 📫 Send me a DM on twitter @takamikai_
+- 👀 I’m interested in startups and JavaScript. Learning in the Odin project.
+- 🌱 I’m currently learning JavaScript.
+- 📫 Send me a DM on twitter @kaitakami_
 
 <!---
 kaitakami/kaitakami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
