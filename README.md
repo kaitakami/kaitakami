@@ -2,8 +2,8 @@
 <h3 align="center">A mexican code lover living in Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitakami&label=Profile%20views&color=0e75b6&style=flat" alt="kaitakami" /> </p>
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img>
 <p align="left"> <a href="https://twitter.com/kaitakami_" target="blank"><img src="https://img.shields.io/twitter/follow/kaitakami_?logo=twitter&style=for-the-badge" alt="kaitakami_" /></a> </p>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img>
 
 
 - 🔭 I’m currently working on a [To do list (currently beta version)](https://github.com/kaitakami/todo-list)
@@ -14,17 +14,15 @@
 
 - 🤝 I’m trying **to get my first experience as a profesional programmer in a startup**
 
-- 👨‍💻 All of my projects are available at [https://kaitakami.com](https://kaitakami.com) (in construction)
+- 👨‍💻 All of my projects are available at [my personal website](https://kaitakami.com) (in construction)
 
-- 📝 I regularly write blogs on [https://kaitakami.com/blog](https://kaitakami.com/blog) (spanish)
+- 📝 I regularly [write blogs](https://kaitakami.com/blog) (spanish)
 
 - 💬 Ask me about **HTML, CSS and Webpack**
 
 - 📫 How to reach me **@kaitakami_ on twitter**
 
-- 📄 Know about my experiences [https://kaitakami.com](https://kaitakami.com)
-
-- ⚡ Fun fact **Every weekend I go to a new site to explore**
+- ⚡ Fun fact **I do long rides in bicycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
