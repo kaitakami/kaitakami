@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img>
 
 
-- 🔭 I’m currently working on a [To do list (currently beta version)](https://github.com/kaitakami/todo-list)
+- 🔭 I’m currently working on a [battleship](https://github.com/kaitakami/battleship-js)
 
 - 🌱 I’m currently learning **React**
 
