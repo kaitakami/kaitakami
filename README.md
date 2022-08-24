@@ -18,7 +18,7 @@
 
 - 📝 I regularly [write blogs](https://kaitakami.com/blog) (spanish)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Webpack or TailWind**
+- 💬 Ask me about **HTML, CSS, JavaScript, Webpack or Tailwind**
 
 - 📫 How to reach me **@kaitakami_ on twitter**
 
