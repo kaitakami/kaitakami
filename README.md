@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Webpack or Tailwind**
 
-- 📫 How to reach me **@kaitakami_ on twitter**
+- 📫 How to reach me **<a href="https://twitter.com/kaitakami_">@kaitakami_</a> on twitter**
 
 - ⚡ Fun fact **I love cycling**
 
