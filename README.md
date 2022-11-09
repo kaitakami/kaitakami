@@ -1,22 +1,19 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></img> I'm Kai Takami</h1>
-<h3 align="center">A mexican code lover living in Japan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaitakami&label=Profile%20views&color=0e75b6&style=flat" alt="kaitakami" /> </p>
 <p align="left"> <a href="https://twitter.com/kaitakami_" target="blank"><img src="https://img.shields.io/twitter/follow/kaitakami_?logo=twitter&style=for-the-badge" alt="kaitakami_" /></a> </p>
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img>
 
 
-- 🔭 I’m currently working on [...](https://github.com/kaitakami/)
+- 🔭 I’m currently working on [different projects :)](https://github.com/kaitakami/)
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👯 In love with open source projects
+- 🌱 I’m currently learning **Rails**
 
 - 👨‍💻 All of my projects are available at [my personal website](https://kaitakami.com) (in construction)
 
 - 📝 I regularly [write blogs](https://kaitakami.com/blog) (spanish)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Webpack and Tailwind**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Webpack, Tailwind, NextJS, Ruby, Rails...**
 
 - 📫 If you love to code, send me a message :) **<a href="https://twitter.com/kaitakami_">@kaitakami_</a> on twitter**
 
