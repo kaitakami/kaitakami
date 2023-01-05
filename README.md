@@ -5,13 +5,11 @@
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img>
 
 
-- 🔭 I’m currently working on [different projects :)](https://github.com/kaitakami/)
+- 🔭 I’m currently working on [different projects :)](https://kaitakami.dev/projects)
 
 - 🌱 I’m currently learning **Rails**
 
-- 👨‍💻 All of my projects are available at [my personal website](https://kaitakami.com) (in construction)
-
-- 📝 I regularly [write blogs](https://kaitakami.com/blog) (spanish)
+- 📝 I regularly [write blogs](https://kaitakami.dev/blog)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Webpack, Tailwind, NextJS, Ruby, Rails...**
 
