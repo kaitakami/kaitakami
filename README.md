@@ -1,5 +1,6 @@
-###
-<h1 align="left">Kai Takami</h1>
+### [Kai Takami](https://www.kaitakami.dev)
+
+---
 
 ###
 
