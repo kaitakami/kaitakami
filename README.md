@@ -1,6 +1,4 @@
-### [Kai Takami](https://www.kaitakami.dev)
-
----
+# [Kai Takami](https://www.kaitakami.dev)
 
 ###
 
