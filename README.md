@@ -8,11 +8,11 @@
 <br />
 <p align="left">Full-stack developer based in Japan building for the web. T3 stack, MERN and Rails.</p>
 
-- 🚀 Currently building [Enzan](https://www.enzan.dev)
-
-- 🔭 You can check out my projects on my [website](https://www.kaitakami.dev/projects)
+- 🚀 Currently looking for [a job](https://hire.kaitakami.dev)
 
 - 📝 I regularly [write blogs](https://www.kaitakami.dev/blog)
+
+- Always building.
 
 <br />
 <br />
