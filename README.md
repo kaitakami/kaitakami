@@ -6,9 +6,7 @@
 
 ###
 <br />
-<p align="left">Full-stack developer based in Japan building for the web. T3 stack, MERN and Rails.</p>
-
-- 🚀 Currently looking for [a job](https://hire.kaitakami.dev)
+<p align="left">Full-stack developer based in Mexico building for the web. T3 stack, MERN and Rails.</p>
 
 - 📝 I regularly [write blogs](https://www.kaitakami.dev/blog)
 
