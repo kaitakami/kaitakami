@@ -6,7 +6,7 @@
 
 ###
 <br />
-<p align="left">Full-stack developer based in Mexico building for the web. T3 stack, MERN and Rails.</p>
+<p align="left">Full-stack developer based in Mexico building for the web. T3 stack, MERN and Rails. Engineer at Domu.</p>
 
 - 📝 I regularly [write blogs](https://www.kaitakami.dev/blog)
 
