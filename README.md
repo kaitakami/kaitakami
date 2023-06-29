@@ -10,7 +10,9 @@
 
 - 📝 I regularly [write blogs](https://www.kaitakami.dev/blog)
 
-- Always building.
+- ⚡️ Super interested in AI
+
+- 🧠 Always building.
 
 <br />
 <br />
