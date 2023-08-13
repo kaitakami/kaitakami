@@ -6,13 +6,24 @@
 
 ###
 <br />
-<p align="left">Full-stack developer based in Mexico building for the web. T3 stack, MERN and Rails. Engineer at Domu.</p>
+<p align="left"><i>Software Engineer at Domu. Based in 🇲🇽 </i></p>
 
-- 📝 I regularly [write blogs](https://www.kaitakami.dev/blog)
+- 📝 [Blog](https://www.sns.kaitakami.dev/blog)
 
-- ⚡️ Super interested in AI
+- ⚡ <i>Building things for the web.</i>
 
-- 🧠 Always building.
+- 🧠 <i>Always learning.</i>
+<br />
+<br />
+<p><i>If you are a dev I recommend this stuff:</i></p>
+
+- <a href="https://www.youtube.com/@ColinGalen">Colin Galen</a> for problem solving
+- <a href="https://www.youtube.com/@WebDevCody">WebDevCody</a> for mid-level engineers
+- <a href="https://www.youtube.com/@interviewpen">Interview Pen</a> for system design
+- <a href="https://basecamp.com/shapeup">Shape Up</a> for those who want to ship work that matters
+- <a href="https://www.youtube.com/@mattpocockuk">Matt Pocock (totaltypescript)</a> for those who like ts
+- <a href="https://www.theodinproject.com/">The Odin Project</a> for those who are starting
+- <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> for those who know what good music is
 
 <br />
 <br />
@@ -27,17 +38,6 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" width="42" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" width="42" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" width="42" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" width="42" alt="rails logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" width="42" alt="ruby logo"  />
-</div>
 
 ###
 
