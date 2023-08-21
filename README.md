@@ -7,6 +7,7 @@
 ###
 <br />
 <p align="left"><i>Software Engineer at Domu. Based in 🇲🇽 </i></p>
+<p align="left"><i>Impossible just takes longer.</i></p>
 
 - 📝 [Blog](https://www.sns.kaitakami.dev/blog)
 
@@ -20,8 +21,8 @@
 - <a href="https://www.youtube.com/@ColinGalen">Colin Galen</a> for problem solving
 - <a href="https://www.youtube.com/@WebDevCody">WebDevCody</a> for mid-level engineers
 - <a href="https://www.youtube.com/@interviewpen">Interview Pen</a> for system design
-- <a href="https://basecamp.com/shapeup">Shape Up</a> for those who want to ship work that matters
-- <a href="https://www.youtube.com/@mattpocockuk">Matt Pocock (totaltypescript)</a> for those who like ts
+- <a href="https://basecamp.com/shapeup">Shape Up</a> to ship work that matters
+- <a href="https://www.youtube.com/@mattpocockuk">Matt Pocock (totaltypescript)</a> to learn ts
 - <a href="https://www.theodinproject.com/">The Odin Project</a> for those who are starting
 - <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> for those who know what good music is
 
