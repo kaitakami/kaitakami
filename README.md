@@ -6,7 +6,7 @@
 
 ###
 <br />
-<p align="left"><i>Software Engineer at Domu. Based in 🇲🇽 </i></p>
+<p align="left"><i>Software Engineer. Based in 🇲🇽 </i></p>
 <p align="left"><i>Impossible just takes longer.</i></p>
 
 - 📝 [Blog](https://www.sns.kaitakami.dev/blog)
