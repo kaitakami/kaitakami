@@ -26,6 +26,7 @@
 - <a href="https://www.theodinproject.com/">The Odin Project</a> for those who are starting
 - <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> for those who know what good music is
 - <a href="https://www.youtube.com/@JeffNippard">Jeff Nippard</a> for the gym
+- <a href="https://codeforces.com/contests">CodeForces</a> for competitive programming
 
 <br />
 <br />
