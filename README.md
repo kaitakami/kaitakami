@@ -27,6 +27,7 @@
 - <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> for those who know what good music is
 - <a href="https://www.youtube.com/@JeffNippard">Jeff Nippard</a> for the gym
 - <a href="https://codeforces.com/contests">CodeForces</a> for competitive programming
+- <a href="https://www.youtube.com/@NeetCode">NeetCode</a> for leetcode
 
 <br />
 <br />
