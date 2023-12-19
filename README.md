@@ -18,16 +18,16 @@
 <br />
 <p><i>If you are a dev I recommend this stuff:</i></p>
 
-- <a href="https://www.youtube.com/@ColinGalen">Colin Galen</a> for problem solving
-- <a href="https://www.youtube.com/@WebDevCody">WebDevCody</a> for mid-level engineers
-- <a href="https://www.youtube.com/@interviewpen">Interview Pen</a> for system design
-- <a href="https://basecamp.com/shapeup">Shape Up</a> to ship work that matters
-- <a href="https://www.youtube.com/@mattpocockuk">Matt Pocock (totaltypescript)</a> to learn ts
-- <a href="https://www.theodinproject.com/">The Odin Project</a> for those who are starting
-- <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> for those who know what good music is
-- <a href="https://www.youtube.com/@JeffNippard">Jeff Nippard</a> for the gym
-- <a href="https://codeforces.com/contests">CodeForces</a> for competitive programming
-- <a href="https://www.youtube.com/@NeetCode">NeetCode</a> for leetcode
+- <a href="https://www.youtube.com/@ColinGalen">Colin Galen</a> - problem solving mindset
+- <a href="https://www.youtube.com/@WebDevCody">WebDevCody</a> - mid-level engineers knowledge
+- <a href="https://www.youtube.com/@interviewpen">Interview Pen</a> - system designs
+- <a href="https://basecamp.com/shapeup">Shape Up</a> - ship work that matters
+- <a href="https://www.youtube.com/@mattpocockuk">Matt Pocock (totaltypescript)</a> - typescript
+- <a href="https://www.theodinproject.com/">The Odin Project</a> - starting out
+- <a href="https://www.youtube.com/channel/UCSj0myiPfGSYQzuc0MkmMtg">City Park</a> - music
+- <a href="https://www.youtube.com/@JeffNippard">Jeff Nippard</a> - gym content
+- <a href="https://codeforces.com/contests">CodeForces</a> - competitive programming
+- <a href="https://www.youtube.com/@NeetCode">NeetCode</a> - leetcode
 
 <br />
 <br />
