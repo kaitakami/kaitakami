@@ -9,7 +9,7 @@
 <p align="left"><i>Software Engineer. Based in 🇲🇽 </i></p>
 <p align="left"><i>Impossible just takes longer.</i></p>
 
-- 📝 [Blog](https://www.sns.kaitakami.dev/blog)
+- 📝 [Blog](https://www.kaitakami.dev/)
 
 - ⚡ <i>Building things for the web.</i>
 
