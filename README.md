@@ -5,7 +5,7 @@
 <p align="left"><i>engineer</i></p>
 <p align="left"><i>building nonstop</i></p>
 <br />
-<a href="https://kaitakami.dev/blog" target="_blank">blog</a> (about startups, mindset, engineering)
+<a href="https://kaitakami.dev/#blog" target="_blank">blog</a> (about startups, mindset, engineering)
 <br />
 <a href="https://x.com/kaitakami_" target="_blank">X</a><br />
 <a href="https://linkedin.com/in/kaitakami" target="_blank">LinkedIn</a>
